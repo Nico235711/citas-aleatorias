@@ -44,13 +44,7 @@ button {
   border: 5px solid #212121;
   color: #fff;
   font-size: 25px;
-  display: block;
-  margin: auto;
+  float: right;
   border-radius: 8px;
   box-shadow: 0 0 3px #212121;
-  transition: all .3s;
-}
-
-button:hover {
-  transform: scale(1.1);
 }
